@@ -7,7 +7,7 @@
 
 | Member | GitHub Profile | Chapters Completed | Role |
 |--------|---------------|-------------------|------|
-| [Your Name] | [@yourusername](https://github.com/yourusername) | Chapter 1 + Setup | Project Lead |
+| Hussein Beshir | [@HussooB](https://github.com/HussooB) | Chapter 1 + Setup | Project Lead |
 | [Member 2] | [@username2](https://github.com/username2) | Chapter 2 (Part 1) | Smart Contract Dev |
 | [Member 3] | [@username3](https://github.com/username3) | Chapter 2 (Part 2) + Screenshots | QA & Testing |
 | [Member 4] | [@username4](https://github.com/username4) | Chapter 3 | Documentation |
