@@ -8,9 +8,9 @@
 | Member | GitHub Profile | Chapters Completed | Role |
 |--------|---------------|-------------------|------|
 | Hussein Beshir | [@HussooB](https://github.com/HussooB) | Chapter 1 + Setup | Project Lead |
-| Abdulbasit Nezif | [@Ibnunezif](https://github.com/Ibnunezif) | Chapter 2 (Part 1) | Smart Contract Dev |
-| Abdurahman Mohammed | [@3abud-web](https://github.com/3abud-web) | Chapter 2 (Part 2) + Screenshots | QA & Testing |
-| Abdulhafiz Mohammed | [AbdulhafizMohammed20](https://github.com/AbdulhafizMohammed20) | Chapter 3 | Documentation |
+| [Member 2] | [@username2](https://github.com/username2) | Chapter 2 (Part 1) | Smart Contract Dev |
+| [Member 3] | [@username3](https://github.com/username3) | Chapter 2 (Part 2) + Screenshots | QA & Testing |
+| [Member 4] | [@username4](https://github.com/username4) | Chapter 3 | Documentation |
 | [Member 5] | [@username5](https://github.com/username5) | Chapter 4 + Final Review | Integration |
 
 > 💡 *Each member has made visible public contributions to this repository as required by the assignment.*
