@@ -15,7 +15,7 @@
 | Abdulbasit Nezif | [@Ibnunezif](https://github.com/Ibnunezif) |
 | Abdurahman Mohammed | [@3abud-web](https://github.com/3abud-web) |
 | Abdulhafiz Mohammed | [@AbdulhafizMohammed20](https://github.com/AbdulhafizMohammed20) |
-| [Member 5] | @username5 |
+| Salahadin Kadi|  https://github.com/SalahHubb |
 
 >  Each member has made visible public contributions to this repository as required by the assignment.
 
