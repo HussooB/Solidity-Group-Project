@@ -1,23 +1,21 @@
 
-
-
 # 🔗 Solidity Group Project - Learn Solidity Course
 
-> 🎓 Laboratory Assignment Submission | Group of 5 | Weight: 10%  
+> 🎓 Laboratory Assignment Submission  
 > 📅 Completed: May 2026 | Deadline: May 06, 2026  
 > 🔗 Course: [Alchemy University - Learn Solidity](https://www.alchemy.com/university/courses/solidity)
 
 ---
 
-## 👥 Team Members & Contributions
+## 👥 Team Members
 
-| Member | GitHub Profile | Chapters Completed | Role |
-|--------|---------------|-------------------|------|
-| Hussein Beshir | [@HussooB](https://github.com/HussooB) | Chapter 1 + Setup | Project Lead |
-| Abdulbasit Nezif | [@Ibnunezif](https://github.com/Ibnunezif) | Chapter 2 (Part 1) | Smart Contract Dev |
-| Abdurahman Mohammed | [@3abud-web](https://github.com/3abud-web) | Chapter 2 (Part 2) + Screenshots | QA & Testing |
-| Abdulhafiz Mohammed | [@AbdulhafizMohammed20](https://github.com/AbdulhafizMohammed20) | Chapter 3 | Documentation |
-| [Member 5] | @username5 | Chapter 4 + Final Review | Integration |
+| Member | GitHub Profile |
+|--------|---------------|
+| Hussein Beshir | [@HussooB](https://github.com/HussooB) |
+| Abdulbasit Nezif | [@Ibnunezif](https://github.com/Ibnunezif) |
+| Abdurahman Mohammed | [@3abud-web](https://github.com/3abud-web) |
+| Abdulhafiz Mohammed | [@AbdulhafizMohammed20](https://github.com/AbdulhafizMohammed20) |
+| [Member 5] | @username5 |
 
 > 💡 Each member has made visible public contributions to this repository as required by the assignment.
 
@@ -249,4 +247,3 @@ See `LICENSE.txt` for details.
 [🔗 Course Link](https://www.alchemy.com/university/courses/solidity) • [📚 Foundry Docs](https://book.getfoundry.sh/)
 
 </div>
-
