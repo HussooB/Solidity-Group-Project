@@ -10,7 +10,7 @@
 | Hussein Beshir | [@HussooB](https://github.com/HussooB) | Chapter 1 + Setup | Project Lead |
 | Abdulbasit Nezif | [@Ibnunezif](https://github.com/Ibnunezif) | Chapter 2 (Part 1) | Smart Contract Dev |
 | Abdurahman Mohammed | [@3abud-web](https://github.com/3abud-web) | Chapter 2 (Part 2) + Screenshots | QA & Testing |
-| [Abdulhafiz Mohammed] | [AbdulhafizMohammed20](github.com/AbdulhafizMohammed20) | Chapter 3 | Documentation |
+| Abdulhafiz Mohammed | [AbdulhafizMohammed20](https://github.com/AbdulhafizMohammed20) | Chapter 3 | Documentation |
 | [Member 5] | [@username5](https://github.com/username5) | Chapter 4 + Final Review | Integration |
 
 > 💡 *Each member has made visible public contributions to this repository as required by the assignment.*
