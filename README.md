@@ -1,6 +1,6 @@
-# ✅ FIXED README.md - Copy & Paste This Entire Block
 
-```markdown
+
+
 # 🔗 Solidity Group Project - Learn Solidity Course
 
 > 🎓 Laboratory Assignment Submission | Group of 5 | Weight: 10%  
@@ -249,8 +249,4 @@ See `LICENSE.txt` for details.
 [🔗 Course Link](https://www.alchemy.com/university/courses/solidity) • [📚 Foundry Docs](https://book.getfoundry.sh/)
 
 </div>
-```
 
-should i paste this?
-
-is it ready?
