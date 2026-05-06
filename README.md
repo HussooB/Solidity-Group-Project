@@ -1,32 +1,34 @@
 
 #  Solidity Group Project - Learn Solidity Course
 
->  Laboratory Assignment Submission  
+>  Laboratory Assignment Submission | Section 2   
 >  Completed: May 2026 | Deadline: May 06, 2026  
 >  Course: [Alchemy University - Learn Solidity](https://www.alchemy.com/university/courses/solidity)
+>  Submitted to: Mr. Yared Tekalegn
 
 ---
 
-## 👥 Team Members
+##  Team Members
 
-| Member | GitHub Profile |
-|--------|---------------|
-| Hussein Beshir | [@HussooB](https://github.com/HussooB) |
-| Abdulbasit Nezif | [@Ibnunezif](https://github.com/Ibnunezif) |
-| Abdurahman Mohammed | [@3abud-web](https://github.com/3abud-web) |
-| Abdulhafiz Mohammed | [@AbdulhafizMohammed20](https://github.com/AbdulhafizMohammed20) |
-| Salahadin Kadi|  https://github.com/SalahHubb |
+| # | Member | GitHub Profile | Student ID |
+|---|--------|---------------|------------|
+| 1 | Hussein Beshir | [@HussooB](https://github.com/HussooB) | Ugr/30697/15 |
+| 2 | Abdulbasit Nezif | [@Ibnunezif](https://github.com/Ibnunezif) | Ugr/30026/15 |
+| 3 | Abdulhafiz Mohammed | [@AbdulhafizMohammed20](https://github.com/AbdulhafizMohammed20) | Ugr/30030/15 |
+| 4 | Salhadin Kadi | @username4 | Ugr/31167/15 |
+| 5 | Abdurahman Mohammed | [@3abud-web](https://github.com/3abud-web) | Ugr/30041/15 |
 
->  Each member has made visible public contributions to this repository as required by the assignment.
+> 💡 Each member has made visible public contributions to this repository as required by the assignment.
 
 ---
 
 ##  Course Completed
 
-✅ **[Alchemy University - Learn Solidity](https://www.alchemy.com/university/courses/solidity)**
+ **[Alchemy University - Learn Solidity](https://www.alchemy.com/university/courses/solidity)**
 
 | Detail | Info |
 |--------|------|
+| Section | 2 |
 | Skill Level | Intermediate |
 | Time to Complete | ~2 weeks (accelerated) |
 | Framework Used | Foundry (Forge) |
@@ -34,12 +36,12 @@
 | Completion Proof | See `/screenshots/` folder |
 
 ### Skills Demonstrated
-- ✅ Coding in Solidity
-- ✅ Smart Contract Fundamentals  
-- ✅ Value Types, Functions, Address Interactions
-- ✅ Reference Types: Arrays, Structs, Mappings
-- ✅ Applied Patterns: Voting, Inheritance, Escrow
-- ✅ Testing with Foundry/Forge
+-  Coding in Solidity
+-  Smart Contract Fundamentals  
+-  Value Types, Functions, Address Interactions
+-  Reference Types: Arrays, Structs, Mappings
+-  Applied Patterns: Voting, Inheritance, Escrow
+-  Testing with Foundry/Forge
 
 ---
 
@@ -240,7 +242,7 @@ See `LICENSE.txt` for details.
 
 <div align="center">
 
-###  Made with ❤️ by the Solidity Group
+###  Developed with 🧠 and ❤️ by Section 2 - Solidity Group
 
 *ASTU Students | May 2026*
 
