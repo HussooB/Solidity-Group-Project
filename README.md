@@ -8,7 +8,7 @@
 
 ---
 
-##  Team Members
+##  Team Members | Section 2 
 
 | # | Member | GitHub Profile | Student ID |
 |---|--------|---------------|------------|
