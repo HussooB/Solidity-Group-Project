@@ -1,9 +1,9 @@
 
-# 🔗 Solidity Group Project - Learn Solidity Course
+#  Solidity Group Project - Learn Solidity Course
 
-> 🎓 Laboratory Assignment Submission  
-> 📅 Completed: May 2026 | Deadline: May 06, 2026  
-> 🔗 Course: [Alchemy University - Learn Solidity](https://www.alchemy.com/university/courses/solidity)
+>  Laboratory Assignment Submission  
+>  Completed: May 2026 | Deadline: May 06, 2026  
+>  Course: [Alchemy University - Learn Solidity](https://www.alchemy.com/university/courses/solidity)
 
 ---
 
@@ -17,11 +17,11 @@
 | Abdulhafiz Mohammed | [@AbdulhafizMohammed20](https://github.com/AbdulhafizMohammed20) |
 | [Member 5] | @username5 |
 
-> 💡 Each member has made visible public contributions to this repository as required by the assignment.
+>  Each member has made visible public contributions to this repository as required by the assignment.
 
 ---
 
-## 🎓 Course Completed
+##  Course Completed
 
 ✅ **[Alchemy University - Learn Solidity](https://www.alchemy.com/university/courses/solidity)**
 
@@ -71,7 +71,7 @@ Solidity-Group-Project/
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 ### Install Foundry
 ```bash
@@ -96,7 +96,7 @@ git submodule update --init --recursive
 
 ---
 
-## 📚 Course Contents
+##  Course Contents
 
 ### 🔹 Chapter 1: Basic Data Types & Functions
 
@@ -113,9 +113,9 @@ git submodule update --init --recursive
 
 | Method | Returns | Reverts |
 |--------|---------|---------|
-| `transfer` | `void` | ✅ Yes |
-| `send` | `bool` | ❌ No |
-| `call` | `(bool, bytes)` | ❌ No |
+| `transfer` | `void` |  Yes |
+| `send` | `bool` |  No |
+| `call` | `(bool, bytes)` |  No |
 
 ```solidity
 // Reverting example
@@ -165,7 +165,7 @@ contract Derived is Base {
 
 ---
 
-## 🚀 Usage
+##  Usage
 
 ```bash
 # Compile all contracts
@@ -186,7 +186,7 @@ forge test -vvv
 
 ---
 
-## 📸 Course Completion Proof
+##  Course Completion Proof
 
 All screenshots demonstrating course progress are stored in the `/screenshots/` directory:
 
@@ -198,7 +198,7 @@ Additional study materials and consolidated notes are available in `/resources/c
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is a collaborative academic project. If you're a team member making updates:
 
@@ -216,22 +216,22 @@ git commit -m "docs: update - [Your Name]"
 git push origin main
 ```
 
-> 💡 Verify all team contributions: `git shortlog -sn --all`
+>  Verify all team contributions: `git shortlog -sn --all`
 
 ---
 
-## ⚠️ Academic Integrity Notice
+##  Academic Integrity Notice
 
 > This repository was created as part of a university laboratory assignment for educational purposes only.
 > 
-> - ✅ All code solutions were developed by the team while completing the Alchemy University Learn Solidity course.
-> - ✅ Reference materials and public repositories were used as **study guides only** to understand concepts and verify approaches.
-> - ✅ Each team member contributed original commits demonstrating individual engagement with the material.
-> - ❌ This project is not intended for production use or commercial deployment.
+> -  All code solutions were developed by the team while completing the Alchemy University Learn Solidity course.
+> -  Reference materials and public repositories were used as **study guides only** to understand concepts and verify approaches.
+> -  Each team member contributed original commits demonstrating individual engagement with the material.
+> -  This project is not intended for production use or commercial deployment.
 
 ---
 
-## 📜 License
+##  License
 
 MIT License - For educational and learning purposes only.  
 See `LICENSE.txt` for details.
@@ -240,9 +240,9 @@ See `LICENSE.txt` for details.
 
 <div align="center">
 
-### 🎉 Made with ❤️ by the Solidity Group
+###  Made with ❤️ by the Solidity Group
 
-*Alchemy University Students | May 2026*
+*ASTU Students | May 2026*
 
 [🔗 Course Link](https://www.alchemy.com/university/courses/solidity) • [📚 Foundry Docs](https://book.getfoundry.sh/)
 
